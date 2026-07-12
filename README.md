@@ -26,7 +26,7 @@
 
 ```javascript
 const shaswatxd = {
-  name: "Shaswat",
+  name: "Srijan Shaswat",
   alias: "shaswatxd",
   role: "Full Stack Developer",
   currently: "Building something legendary 🔥",
