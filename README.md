@@ -143,6 +143,39 @@ const shaswatxd = {
 
 ---
 
+<!-- AI Gang Section -->
+<div align="center">
+
+## 🤖 My AI Gang (Ye log bina bole kaam karte hain)
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Claude-Paglu%20AI%20🤪-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white" /><br/>
+      <sub><b>Claude (Anthropic)</b></sub><br/>
+      <sub>Mera paglu AI dost 😂<br/>Kabhi kabhi zyada hi helpful ho jaata hai 💀</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/ChatGPT-Bhai%20Log%20🧠-00A67E?style=for-the-badge&logo=openai&logoColor=white" /><br/>
+      <sub><b>ChatGPT (OpenAI)</b></sub><br/>
+      <sub>Backup wala dost<br/>Kaam aata hai kabhi kabhi 🤷</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/GitHub%20Copilot-Code%20Chor%20🦜-181717?style=for-the-badge&logo=github&logoColor=white" /><br/>
+      <sub><b>GitHub Copilot</b></sub><br/>
+      <sub>Mera code complete karta hai<br/>bina pooche 😤</sub>
+    </td>
+  </tr>
+</table>
+
+> *"I don't always use AI... but when I do, I still get blamed for the bugs 🐛"*
+>
+> — **shaswatxd**, debugging at 3am 🌙
+
+</div>
+
+---
+
 <!-- Connect Section -->
 <div align="center">
 
