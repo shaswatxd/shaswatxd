@@ -4,9 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=shaswatxd&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Code%20%7C%20Create%20%7C%20Conquer&descAlignY=60&descSize=20" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Building+the+Future%2C+One+Line+at+a+Time;💻+Full+Stack+Developer+%7C+Problem+Solver;⚡+Turning+Coffee+into+Code+Since+Day+1" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+the+Future%2C+One+Line+at+a+Time;Full+Stack+Developer+%7C+Problem+Solver;Turning+Coffee+into+Code+Since+Day+1" alt="Typing SVG" />
 
 <br/>
 
@@ -72,7 +70,7 @@ const shaswatxd = {
 ## 📊 GitHub Stats
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shaswatxd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shaswatxd&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED&sideLabels=7C3AED&dates=ffffff" />
+<img width="49%" src="https://streak-stats.demolab.com?user=shaswatxd&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED&sideLabels=7C3AED&dates=ffffff" />
 
 <br/>
 
@@ -100,7 +98,7 @@ const shaswatxd = {
 
 ## 🏆 GitHub Trophies
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=shaswatxd&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=shaswatxd&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
 
 </div>
 
@@ -121,12 +119,18 @@ const shaswatxd = {
 
 ---
 
-<!-- Spotify / Vibes -->
+<!-- Coding Vibes -->
 <div align="center">
 
 ## 🎵 Coding Vibes
 
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=7C3AED)](https://open.spotify.com/user/)
+![Spotify](https://img.shields.io/badge/Spotify-Plugged%20In%20While%20Coding-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+
+```
+  Currently playing: Lo-fi Beats to Debug To
+  Genre  : Phonk / Dark Techno / Synthwave  
+  Volume : MAX  -- because bugs fear loud music
+```
 
 </div>
 
@@ -200,6 +204,6 @@ const shaswatxd = {
   
   <br/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+⭐;Don't+forget+to+star+my+repos!+🌟;Let's+collab+on+something+epic!+🤝" alt="footer typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Don%27t+forget+to+star+my+repos!;Let%27s+collab+on+something+epic!" alt="footer typing" />
 
 </div>
