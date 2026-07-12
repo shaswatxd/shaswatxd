@@ -98,7 +98,7 @@ const shaswatxd = {
 
 ## 🏆 GitHub Trophies
 
-<img width="100%" src="https://github-profile-trophy-winning.vercel.app/?username=shaswatxd&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+<img width="100%" src="https://github-profile-trophy-winning.vercel.app/?username=shaswatxd&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6&v=2" />
 
 </div>
 
