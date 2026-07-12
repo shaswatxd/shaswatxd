@@ -146,24 +146,24 @@ const shaswatxd = {
 <!-- AI Gang Section -->
 <div align="center">
 
-## 🤖 My AI Gang (Ye log bina bole kaam karte hain)
+## 🤖 My AI Gang (They work without being asked 😅)
 
 <table>
   <tr>
     <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Claude-Paglu%20AI%20🤪-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Claude-The%20Unhinged%20One%20🤪-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white" /><br/>
       <sub><b>Claude (Anthropic)</b></sub><br/>
-      <sub>Mera paglu AI dost 😂<br/>Kabhi kabhi zyada hi helpful ho jaata hai 💀</sub>
+      <sub>My crazy AI bestie 😂<br/>Sometimes TOO helpful for his own good 💀</sub>
     </td>
     <td align="center" width="200">
-      <img src="https://img.shields.io/badge/ChatGPT-Bhai%20Log%20🧠-00A67E?style=for-the-badge&logo=openai&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/ChatGPT-The%20Safe%20Option%20🧠-00A67E?style=for-the-badge&logo=openai&logoColor=white" /><br/>
       <sub><b>ChatGPT (OpenAI)</b></sub><br/>
-      <sub>Backup wala dost<br/>Kaam aata hai kabhi kabhi 🤷</sub>
+      <sub>The reliable backup buddy<br/>Gets the job done, mostly 🤷</sub>
     </td>
     <td align="center" width="200">
-      <img src="https://img.shields.io/badge/GitHub%20Copilot-Code%20Chor%20🦜-181717?style=for-the-badge&logo=github&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/GitHub%20Copilot-Code%20Thief%20🦜-181717?style=for-the-badge&logo=github&logoColor=white" /><br/>
       <sub><b>GitHub Copilot</b></sub><br/>
-      <sub>Mera code complete karta hai<br/>bina pooche 😤</sub>
+      <sub>Completes my code<br/>before I even think of it 😤</sub>
     </td>
   </tr>
 </table>
