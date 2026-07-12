@@ -188,7 +188,7 @@ const shaswatxd = {
 [![GitHub](https://img.shields.io/badge/GitHub-shaswatxd-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaswatxd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaswatxd)
 [![Twitter/X](https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shaswatxd)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://shaswatxd.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://shaswathub.vercel.app)
 
 <br/>
 
