@@ -98,7 +98,7 @@ const shaswatxd = {
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy-winning.vercel.app/?username=shaswatxd&theme=radical&no-frame=true&no-bg=true&v=3)
+![Trophies](https://github-trophies.devomb.com/?username=shaswatxd&theme=radical&no-frame=true&no-bg=true&v=1)
 
 </div>
 
