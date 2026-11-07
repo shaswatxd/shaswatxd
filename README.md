@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=shaswatxd&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Code%20%7C%20Create%20%7C%20Conquer&descAlignY=60&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ShaswatCrafts&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Code%20%7C%20Create%20%7C%20Conquer&descAlignY=60&descSize=20" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+the+Future%2C+One+Line+at+a+Time;Full+Stack+Developer+%7C+Problem+Solver;Turning+Coffee+into+Code+Since+Day+1" alt="Typing SVG" />
@@ -25,7 +25,7 @@
 </div>
 
 ```javascript
-const shaswatxd = {
+const shaswatcrafts = {
   name: "ShaswatCrafts",
   alias: "shaswatxd",
   role: "Full Stack Developer",
@@ -174,7 +174,7 @@ const shaswatxd = {
 
 > *"I don't always use AI... but when I do, I still get blamed for the bugs 🐛"*
 >
-> — **shaswatxd**, debugging at 3am 🌙
+> — **ShaswatCrafts**, debugging at 3am 🌙
 
 </div>
 
